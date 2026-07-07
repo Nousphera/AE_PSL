@@ -1,0 +1,13 @@
+datasets==2.20.0
+flwr_datasets==0.6.0
+matplotlib==3.10.8
+numpy==1.26.4
+pandas==2.3.3
+pillow==10.3.0
+timm==0.4.5
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
+tqdm==4.67.0
+kmeans_pytorch @ git+https://github.com/subhadarship/kmeans_pytorch@f7f36bd1cb4e3a761d73d584866d0a9c6b4d2805
+
