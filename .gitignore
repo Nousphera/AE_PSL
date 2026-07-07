@@ -3,3 +3,4 @@ core.*
 *.gz
 data/
 .idea/
+.DS_Store
