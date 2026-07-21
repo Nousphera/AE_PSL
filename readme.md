@@ -161,10 +161,13 @@ bash run_no_compression.sh
 If you find this repository useful in your research, please cite:
 
 ```bibtex
-@article{TODO,
-  title={AutoEncoder-Compressed Parallel Split Learning for Pre-trained Model Fine-Tuning},
-  author={TODO},
-  journal={TODO},
-  year={2026}
+@misc{meuwissen2026autoencodercompressedparallelsplitlearning,
+      title={AutoEncoder-Compressed Parallel Split Learning for Pre-trained Model Fine-Tuning}, 
+      author={Bas Meuwissen and Vasileios Tsouvalas and Nirvana Meratnia},
+      year={2026},
+      eprint={2607.17913},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2607.17913}, 
 }
 ```
