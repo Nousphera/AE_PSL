@@ -17,7 +17,7 @@ Extensive experiments on four vision benchmarks demonstrate that AE-PSL achieves
 
 **Paper:**
 
-> TODO: Add paper URL
+[Read the pre-print on arXiv](https://arxiv.org/abs/2607.17913)
 
 ---
 
